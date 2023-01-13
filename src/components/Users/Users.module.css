@@ -1,0 +1,14 @@
+.userPhoto {
+    height: 200px;
+}
+
+.selectedPage {
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.unSelectedPage {
+    padding-left: 5px;
+    height: 20px;
+    display: inline-block;
+}
